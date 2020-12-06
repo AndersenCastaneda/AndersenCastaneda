@@ -1,9 +1,9 @@
 ### Hello there 👋 I'm Andersen Castañeda.
 
 # ⚡ About me:
- - Game Developer
- - Full Stack Developer
- - Classical Pianist
+ - 🎓 Classical Pianist
+ - 🎓 Game Developer
+ - 🎓 Full Stack Developer
  
 I started my studies as a Classical Pianist, in fact, I have a Master's Degree in Classical Piano and I have always liked to compose music for television and video games, I have 10 years of experience as a Pianist and Composer.
 
