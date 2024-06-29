@@ -16,7 +16,3 @@ My music: [The last sigh](https://soundcloud.com/andersencastaneda/the-last-sigh
 ## 📫 Reach me:
   * [LinkedIn - andersencastaneda](https://www.linkedin.com/in/andersencastaneda/)
   * [Twitter - andersencast](https://twitter.com/andersencast)
-
-## 📈 Github stats
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersenCastaneda">
-<img src="https://github-readme-stats.vercel.app/api?username=AndersenCastaneda&show_icons=true&hide_title=true">
